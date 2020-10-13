@@ -23,4 +23,4 @@ assumptions drawn out of the sample datasets.
 </ul>
 
 ## OUR SOLUTION
-<img src="solution.png" alt="OUR SOLUTION" width="347" height="605">
+<img src="solution.png" alt="OUR SOLUTION" width="605" height="347">
