@@ -1,7 +1,7 @@
 ''' 
 This code is for inference.
 To generate checkpoints the ../notebooks/Phase2_T4H_Pix2Pix_GAN.ipynb should be run first
-''''
+'''
 
 
 
