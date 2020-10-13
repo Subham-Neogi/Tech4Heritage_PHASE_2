@@ -21,3 +21,6 @@ Restore the damaged parts using  a model to fill the spaces that are missing usi
 assumptions drawn out of the sample datasets.
   </li>
 </ul>
+
+## OUR SOLUTION
+<img src="solution.png" alt="OUR SOLUTION" width="347" height="605">
