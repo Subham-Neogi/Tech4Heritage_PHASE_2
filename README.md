@@ -2,8 +2,8 @@
 Code for T4H Phase 2
 
 ## Team : The Eternals
-*Sayak Chakraborty
-*Amor Iqbal
-*Subham Neogi
+* Sayak Chakraborty
+* Amor Iqbal
+* Subham Neogi
 
 CS@IIESTS
